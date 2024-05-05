@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HexmapToolGenerator.data.unityweb",
+"asmCodeUrl": "HexmapToolGenerator.asm.code.unityweb",
+"asmMemoryUrl": "HexmapToolGenerator.asm.memory.unityweb",
+"asmFrameworkUrl": "HexmapToolGenerator.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

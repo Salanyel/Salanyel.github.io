@@ -1,0 +1,24 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	
+	background: #000000;
+	color: white;
+}
+
+html, body, canvas {
+	touch-action: none;
+	touch-action-delay: none;
+}
+
+@font-face {
+	font-family: 'nasalization-rg';
+	src: url('fonts/nasalization-rg.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'space age';
+	src: url('fonts/space age.ttf') format('truetype');
+}
+
