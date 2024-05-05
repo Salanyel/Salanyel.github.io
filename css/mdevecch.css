@@ -1,0 +1,84 @@
+.img-responsive-100percent
+{
+	width: 100%;
+}
+
+.margin-top
+{
+	padding-top: 5pt;
+}
+
+.description-icon and (min-width: 300px)
+{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 300pt;
+}
+
+.description-icon and (min-width: 600px)
+{
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 70pt;
+}
+
+.tool-icon 
+{
+	width: 29pt;
+	height: 24pt;
+	border-color: #777;
+	padding-right: 5px;
+	border-right: solid 1px;
+}
+
+.empty-tool-icon
+{
+	width: 24pt;
+	height: 24pt;
+}
+
+.last-tool-icon
+{
+	width: 24pt;
+	height: 24pt;
+}
+
+.left-tool-icon 
+{
+	float: left;
+	width: 34pt;
+	height: 24pt;
+	border-color: #777;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-right: solid 1px;
+}
+
+.last-left-tool-icon
+{
+	float: left;
+	width: 29pt;
+	height: 24pt;
+	padding-left: 5pt;
+}
+
+.right-tool-icon {
+	float: right;
+	width: 34pt;
+	height: 24pt;
+	border-color: #777;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-left: solid 1px;
+}
+
+.first-tool-icon
+{
+	width: 29pt;
+	height: 24pt;
+	padding-right: 5pt;
+	float: right;
+}
+
